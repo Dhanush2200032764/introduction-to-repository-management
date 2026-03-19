@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Dhanush2200032764
+/src/backend/database.py      @Dhanush2200032764
+/src/backend/routers/auth.py  @Dhanush2200032764
+
+# Frontend
+/src/static/   @Dhanush2200032764
